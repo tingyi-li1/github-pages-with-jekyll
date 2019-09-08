@@ -1,7 +1,6 @@
 --
 title: strawberry
-date: 2019-09-07
---
+
 author: sloth
 email: tingyi_li@brown.edu
 description: > # this means to ignore newlines until "baseurl:"
@@ -15,4 +14,6 @@ github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+
+date: 2019-09-07
 --
